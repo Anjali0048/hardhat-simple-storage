@@ -1,0 +1,9 @@
+await simpleStorage.getDeployedCode()
+await simpleStorage.retrieve();
+const simpleStorage = await SimpleStorageFactory.d
+const SimpleStorageFactory = await ethers.getContractFactory("SimpleStorage")
+const simpleStorage = await SimpleStorageFactory.deploy()
+const SimpleStorageFactory = await ethers.getContract
+clean
+clear
+const SimpleStorageFactory = await ethers.getContractFactory("SimpleStorage")

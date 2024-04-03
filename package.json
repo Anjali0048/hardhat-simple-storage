@@ -1,0 +1,23 @@
+{
+  "name": "simple-storage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anjali Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.5",
+    "@nomicfoundation/hardhat-verify": "^2.0.5",
+    "ethers": "^6.11.1",
+    "hardhat": "^2.22.1"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "hardhat-gas-reporter": "^1.0.8",
+    "solidity-coverage": "^0.8.11"
+  }
+}
